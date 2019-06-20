@@ -1,0 +1,22 @@
+[
+    {
+        "name":"oguz karabacak",
+        "department":"bilişim", 
+        "salary":5000
+    },
+    {
+        "name":"merve karabacak",
+        "department":"köpek",
+        "salary":700
+    },
+    {
+        "name":"ismail karabacak",
+        "department":"memur",
+        "salary":4000
+    },
+    {
+        "name":"tenzile karabacak",
+        "department":"mutfaktan sorumlu genel müdür",
+        "salary":7000
+    }
+]
